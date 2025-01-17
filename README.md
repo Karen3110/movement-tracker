@@ -20,12 +20,9 @@ If something is failed, follow terminal instructions.
 ## Installation
 Pull the project to your local machine using git:
 bash git clone https://github.com/Karen3110/movement-tracker.git
-then run
-```shell
-cd movement-tracker mvn clean install
-```
+
 ## Usage
-Run the application after starting Kafka service from your IntelliJ IDEA
+Run the application from your IntelliJ IDEA after starting Kafka service.
 ## Dependencies
 This project is built with the following dependencies:
 
